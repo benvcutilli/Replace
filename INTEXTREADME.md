@@ -3,8 +3,9 @@ for random ones using ^^^tagcreator^^^, and keeps adherence to
 the structure of file managed by ^^^intext^^^.
 
 This repository is also cited by InText ^^^intext^^^. The program put references
-into the `references` file. Files prefixed with `INTEXT` got that prefix from
-^^^intext^^^'s intext.py, point (D).
+into the `references` file. `replace.py`, `README.md`, `Makefile`, and
+`references` contain in-text citations Files prefixed with `INTEXT` got that
+prefix from ^^^intext^^^'s intext.py, point (D).
 
 These were steps taken to put this Git ^^^git^^^ repository on GitHub ^^^github^^^:
 

@@ -3,8 +3,9 @@ for random ones using [2, tagcreator.py], and keeps adherence to
 the structure of file managed by [2].
 
 This repository is also cited by InText [2]. The program put references
-into the `references` file. Files prefixed with `INTEXT` got that prefix from
-[2]'s intext.py, point (D).
+into the `references` file. `replace.py`, `README.md`, `Makefile`, and
+`references` contain in-text citations Files prefixed with `INTEXT` got that
+prefix from [2]'s intext.py, point (D).
 
 These were steps taken to put this Git [3] repository on GitHub [4]:
 
